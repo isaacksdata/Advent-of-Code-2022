@@ -2,3 +2,4 @@ jupyterlab
 numpy
 pandas
 tqdm
+advent-of-code-data-1.3.2
