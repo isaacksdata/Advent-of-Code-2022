@@ -1,5 +1,7 @@
-jupyterlab
-numpy
-pandas
-tqdm
+jupyterlab==3.5.2
+numpy==1.24.0
+pandas==1.5.2
+tqdm==4.64.1
+pillow==9.3.0
 advent-of-code-data-1.3.2
+matplotlib==3.6.2
